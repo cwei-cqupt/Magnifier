@@ -1,5 +1,7 @@
 # Magnifier
 
+[使用示例](http://orionwei.github.io/homework/Magnifier/docs/demo.html)
+
 1. 获取magnifier
 
   下载magnifier文件
