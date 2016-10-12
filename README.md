@@ -1,6 +1,6 @@
 # Magnifier
 
-[使用示例](http://orionwei.github.io/homework/Magnifier/docs/demo.html)
+[使用示例](http://orionwei.github.io/homework/Magnifier/docs/dome.html)
 
 1. 获取magnifier
 
